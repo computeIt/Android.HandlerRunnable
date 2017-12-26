@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Android.Handler.onCheckedChange</string>
+    <string name="mutltiplayer">многопользовательский режим</string>
+    <string name="info">выбери имя для второго игрока</string>
+</resources>
